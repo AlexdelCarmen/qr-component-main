@@ -8,6 +8,15 @@ body {
   font-family: Outfit, sans-serif;
 }
 
+:root {
+  --light-color-1: hsl(0, 0%, 100%);
+  --light-color-2: hsl(212, 45%, 89%);
+  --accent-color-1: hsl(220, 15%, 55%);
+  --accent-color-2: hsl(218, 44%, 22%);
+  --paragraph-font-size: 15px;
+  --title-paragraph: 30px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
